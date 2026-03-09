@@ -92,7 +92,6 @@ function showData(){
                     <td>${dataPro[i].taxes}</td>
                     <td>${dataPro[i].discount}</td>
                     <td>${dataPro[i].total}</td>
-                    <td>${dataPro[i].count}</td>
                     <td>${dataPro[i].category}</td>
                     <td><button onclick="updateDta(${i})" class="btnUpdate">Update</button></td>
                     <td><button onclick="deleteData(${i})" class="btnDelete">Delete</button></td>
