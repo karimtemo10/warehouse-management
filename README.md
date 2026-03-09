@@ -14,7 +14,7 @@ Search: Quick search functionality to find products by name or category.
 
 Local Storage: Data is saved locally in the browser, so it's not lost on refresh.
 
-🛠️ Tech Stack
-HTML5
-CSS3
+🛠️ Tech Stack: 
+HTML5, 
+CSS3, 
 JavaScript
